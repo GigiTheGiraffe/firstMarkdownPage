@@ -9,7 +9,7 @@ Ceci est ma toute première page sur github en markdown, je le ***jure***.
 
 Je me présente vite fait!
 
->Après avoir fini mon bachelier en psychologie, je me suis rendu compte que j'avais envie d'une nouvelle >aventure. Je me suis lancé à l'assaut de la formation de développement web sous les conseils de mon coach, >[Mike](https://github.com/Mike00001?tab=overview&from=2024-04-01&to=2024-04-30). Dorénavant, je suis un >apprenant et je fais des progrès tout les jours. J'espère que mon moi du futur aura encore progressé!  
+>Après avoir fini mon bachelier en psychologie, je me suis rendu compte que j'avais envie d'une nouvelle >aventure. Je me suis lancé à l'assaut de la formation de développement web sous les conseils de mon coach, [Mike](https://github.com/Mike00001?tab=overview&from=2024-04-01&to=2024-04-30). Dorénavant, je suis un >apprenant et je fais des progrès tout les jours. J'espère que mon moi du futur aura encore progressé!  
 
 Merci d'être venu au mini TED talk de ma vie :D  
 
