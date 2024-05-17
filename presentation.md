@@ -62,7 +62,7 @@ J'ai vraiment hâte de pouvoir découvrir ce que j'aime dans la programmation. J
 
 1. La ***communication*** est le nerf de la guerre dans un groupe. Des points supplémentaires si notre équipe réussit à communiquer de manière claire et concice.    
 2. La ***critique constructive***. Nous sommes capable d'être honnête les uns envers les autres et d'aider notre prochain donc faisons le! De plus il est beaucoup plus *efficace* de ne pas être **agressif** ou **hautain**.    
-3. Je pense qu'il est nécessaire d'avoir un ***teamleader*** pour concentrer les efforts dans la bonne direction tot en les structurant!   
+3. Je pense qu'il est nécessaire d'avoir un ***teamleader*** pour concentrer les efforts dans la bonne direction tout en les structurant!   
 
 Ce n'est que *mon avis personnel* :)
 
