@@ -9,7 +9,7 @@ Ceci est ma toute première page sur github en markdown, je le ***jure***.
 
 Je me présente vite fait!
 
->Après avoir fini mon bachelier en psychologie, je me suis rendu compte que j'avais envie d'une nouvelle >aventure. Je me suis lancé à l'assaut de la formation de développement web sous les conseils de mon coach, [Mike](https://github.com/Mike00001?tab=overview&from=2024-04-01&to=2024-04-30). Dorénavant, je suis un >apprenant et je fais des progrès tout les jours. J'espère que mon moi du futur aura encore progressé!  
+>Après avoir fini mon bachelier en psychologie, je me suis rendu compte que j'avais envie d'une nouvelle aventure. Je me suis lancé à l'assaut de la formation de développement web sous les conseils de mon coach, [Mike](https://github.com/Mike00001?tab=overview&from=2024-04-01&to=2024-04-30). Dorénavant, je suis un >apprenant et je fais des progrès tout les jours. J'espère que mon moi du futur aura encore progressé!  
 
 Merci d'être venu au mini TED talk de ma vie :D  
 
@@ -58,7 +58,7 @@ J'ai vraiment hâte de pouvoir découvrir ce que j'aime dans la programmation. J
 
 ---
 
-## Qu'est ce qui est le plus **important** pour le teamwork, selon *moi*.
+## Qu'est ce qui est le plus **important** pour le teamwork, selon *moi*?
 
 1. La ***communication*** est le nerf de la guerre dans un groupe. Des points supplémentaires si notre équipe réussit à communiquer de manière claire et concice.    
 2. La ***critique constructive***. Nous sommes capable d'être honnête les uns envers les autres et d'aider notre prochain donc faisons le! De plus il est beaucoup plus *efficace* de ne pas être **agressif** ou **hautain**.    
