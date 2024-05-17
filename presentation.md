@@ -47,7 +47,7 @@ Merci d'être venu au mini TED talk de ma vie :D
 ## Quels sont mes *\*spooky\** *PEURS* ? *\*spooky\**  
 
 - Les araignées   
-- Mike   
+- Les films d'horreur (hors slasher)   
 - Je vous ai déjà parlé des araignées?   
 
 ---
